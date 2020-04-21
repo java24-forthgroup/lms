@@ -1,0 +1,23 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    # 每一个spring boot项目都有一个名字，这个名字可以省略
+    # 但是在微服务环境下，强烈建议把名字写上！
+    name: user-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///lms?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8&useSSL=true
+    username: root
+    password: 12345678
+  # 如果你坚持使用mybatis，那么这里就要替换为mybatis的配置了
+  # 以下是spring-data-jpa的相关配置。
+  jpa:
+    properties:
+      hibernate:
+        # hbm2ddl，就是根据模型，自动建表的策略，一共有4种策略
+        # 我们只讲解一种： update。 update表示，表如果不存在，就创建。如果存在就不创建。
+        hbm2ddl:
+          auto: update
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
