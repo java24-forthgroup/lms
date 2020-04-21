@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5543baeb-e487-4b10-a31d-56f96c86eb3d" name="Default Changelist" comment="" />
+    <list default="true" id="5543baeb-e487-4b10-a31d-56f96c86eb3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/CarQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Hosttask.java" beforeDir="false" afterPath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Hosttask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportactioncost.java" beforeDir="false" afterPath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportactioncost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportcapacity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/target/classes/com/woniuxy/domain/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/lms-common/target/classes/com/woniuxy/domain/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/target/classes/com/woniuxy/domain/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/lms-common/target/classes/com/woniuxy/domain/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/target/classes/com/woniuxy/domain/Hosttask.class" beforeDir="false" afterPath="$PROJECT_DIR$/lms-common/target/classes/com/woniuxy/domain/Hosttask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/target/classes/com/woniuxy/domain/Transportactioncost.class" beforeDir="false" afterPath="$PROJECT_DIR$/lms-common/target/classes/com/woniuxy/domain/Transportactioncost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lms-common/target/classes/com/woniuxy/domain/Transportcapacity.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/lms-transportcapacity/target/" />
@@ -39,11 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="616">
+              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,10 +66,95 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Driver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Hosttask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportactioncost.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Role.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="16" column="55" selection-start-line="15" selection-start-column="3" selection-end-line="16" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/UserRole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/CarQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#609#617#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lms-user/src/main/java/com/woniuxy/controller/ViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="197">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,6 +173,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -86,7 +188,6 @@
         <option value="$PROJECT_DIR$/lms-car/pom.xml" />
         <option value="$PROJECT_DIR$/lms-user/src/main/java/com/woniuxy/service/weq.java" />
         <option value="$PROJECT_DIR$/lms-user/src/main/java/com/woniuxy/UserApp.java" />
-        <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Car.java" />
         <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/hosttask.java" />
         <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Role.java" />
         <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/UserRole.java" />
@@ -106,12 +207,14 @@
         <option value="$PROJECT_DIR$/lms-car/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lms-user/src/main/java/com/woniuxy/service/IUserService.java" />
         <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/utils/ResultVO.java" />
+        <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportcapacity.java" />
+        <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportactioncost.java" />
+        <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Car.java" />
         <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Driver.java" />
         <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Hosttask.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportactioncost.java" />
-        <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportcapacity.java" />
-        <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/utils/ResultVO.java" />
+        <option value="$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/CarQueue.java" />
       </list>
     </option>
   </component>
@@ -136,18 +239,17 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="20" />
+    <option name="x" value="-163" />
+    <option name="y" value="13" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,10 +257,62 @@
               <item name="lms-forthgroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="lms-forthgroup" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lms-forthgroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lms-forthgroup" type="462c0819:PsiDirectoryNode" />
+              <item name="lms-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lms-forthgroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lms-forthgroup" type="462c0819:PsiDirectoryNode" />
+              <item name="lms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lms-forthgroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lms-forthgroup" type="462c0819:PsiDirectoryNode" />
+              <item name="lms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lms-forthgroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lms-forthgroup" type="462c0819:PsiDirectoryNode" />
+              <item name="lms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lms-forthgroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lms-forthgroup" type="462c0819:PsiDirectoryNode" />
+              <item name="lms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="woniuxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lms-forthgroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lms-forthgroup" type="462c0819:PsiDirectoryNode" />
+              <item name="lms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="woniuxy" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lms-forthgroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lms-forthgroup" type="462c0819:PsiDirectoryNode" />
+              <item name="lms-user" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +323,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../star-alibaba111/star-alibaba" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -271,16 +425,26 @@
       <updated>1587393233260</updated>
       <workItem from="1587393235790" duration="7742000" />
       <workItem from="1587431782369" duration="9580000" />
+      <workItem from="1587464567992" duration="6274000" />
     </task>
+    <task id="LOCAL-00001" summary="田文凯：项目搭建">
+      <created>1587464808365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587464808366</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17322000" />
+    <option name="totallyTimeSpent" value="23596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2419571" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24530831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -301,7 +465,8 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="bottom" x="22" y="182" width="1492" height="460" id="Run Dashboard" order="16" sideWeight="0.8699732" visible="true" weight="0.2036775" />
+      <window_info anchor="bottom" x="22" y="182" width="1492" height="460" id="Run Dashboard" order="16" sideWeight="0.8699732" visible="true" weight="0.21246459" />
+      <window_info anchor="right" id="Github Tools" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -314,6 +479,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="田文凯：项目搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="田文凯：项目搭建" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -387,13 +556,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../apache-maven-3.6.1/apache-maven-3.6.1/myresp/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../apache-maven-3.6.1/apache-maven-3.6.1/myresp/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class" />
     <entry file="file://$PROJECT_DIR$/lms-car/src/main/java/com.java" />
     <entry file="file://$PROJECT_DIR$/lms-user/src/main/java/com/woniuxy/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -440,13 +603,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../apache-maven-3.6.1/apache-maven-3.6.1/myresp/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../apache-maven-3.6.1/apache-maven-3.6.1/myresp/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class" />
     <entry file="file://$PROJECT_DIR$/lms-user/src/main/java/com/woniuxy/service/IUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -466,36 +623,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lms-hosttask/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/UserRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -528,46 +655,6 @@
     <entry file="file://$PROJECT_DIR$/lms-transportationcost/lms-transportationcost.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Hosttask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="55" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="16" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportcapacity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportactioncost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lms-driver/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -582,13 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/utils.java" />
     <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/utils/ResultVO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
@@ -598,8 +679,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lms-user/src/main/java/com/woniuxy/controller/ViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="197">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportcapacity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/UserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="55" selection-start-line="15" selection-start-column="3" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Transportactioncost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Hosttask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -608,10 +759,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="616">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-common/src/main/java/com/woniuxy/domain/CarQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#609#617#0" expanded="true" />
           </folding>
         </state>
       </provider>

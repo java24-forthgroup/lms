@@ -1,11 +1,9 @@
 package com.woniuxy.domain;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 /**
  * Created by tianwenkai on 0:02 2020-04-21
@@ -24,4 +22,8 @@ public class Driver {
     private String driverphone;
     //司机类型
     private String drivertype;
+    @ManyToOne
+    @JoinColumn(name="carqueueid")
+    private Driver driver;
+
 }

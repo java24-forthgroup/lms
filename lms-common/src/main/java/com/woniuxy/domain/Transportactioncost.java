@@ -18,4 +18,12 @@ public class Transportactioncost {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer costid;
+    //基础里程数
+    private Integer costbasekm;
+    //基础价格
+    private double costprice;
+    //超出后每公里价格
+    private double costprice2;
+    //总价格
+    private double totalprice;
 }

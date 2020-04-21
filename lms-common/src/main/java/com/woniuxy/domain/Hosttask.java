@@ -2,10 +2,7 @@ package com.woniuxy.domain;
 
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 /**
  * Created by tianwenkai on 0:04 2020-04-21
@@ -20,5 +17,11 @@ public class Hosttask {
     //承运单号
     private long taskcode;
     private String goodsname;
+
+    private String goodsweight;
+
+    @OneToOne
+    @JoinColumn(name = "carqueueid")
+    private CarQueue carqueue;
 
 }
